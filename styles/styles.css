@@ -13,6 +13,7 @@
     font-weight: 400;
     font-size: 17px;
     line-height: 19.55px;
+    color: #636060;
 }
 
 .banner {
@@ -49,3 +50,71 @@ p {
     line-height: 21.84px;
     color: #FFFFFF;
 }
+
+article {
+    margin-top: 84px;
+}
+
+.discover {
+    margin-left: 100px;
+    display: inline-block;
+    margin-top: 84px;
+}
+
+h5 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 19.55px;
+    color: #636060;
+}
+
+h4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32.2px;
+    color: #010101;
+}
+
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #636060;
+    width: 235px;
+}
+
+.box1 {
+    display: inline-block;
+    margin-left: 83px;
+}
+
+.box2 {
+    display: inline-block;
+    margin-left: 33px;
+}
+
+.box3 {
+    display: inline-block;
+    margin-left: 33px;
+}
+
+.box4 {
+    display: inline-block;
+    margin-left: 418px;
+    margin-top: 56px;
+}
+
+.box5 {
+    display: inline-block;
+    margin-left: 33px;
+}
+
+.box6 {
+    display: inline-block;
+    margin-left: 33px;
+}
+
+
